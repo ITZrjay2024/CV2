@@ -1,0 +1,149 @@
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+body {
+  color: #40514E;
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.bottom {
+  background-color: #6ebfbf;
+  padding: 50px 0 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.btn {
+  background: #6ebfbf;
+  background-image: -webkit-linear-gradient(top, #6ebfbf, #1debeb);
+  background-image: -moz-linear-gradient(top, #6ebfbf, #1debeb);
+  background-image: -ms-linear-gradient(top, #6ebfbf, #1debeb);
+  background-image: -o-linear-gradient(top, #6ebfbf, #1debeb);
+  background-image: linear-gradient(to bottom, #6ebfbf, #1debeb);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #235c5c;
+  background-image: -webkit-linear-gradient(top, #235c5c, #385e5e);
+  background-image: -moz-linear-gradient(top, #235c5c, #385e5e);
+  background-image: -ms-linear-gradient(top, #235c5c, #385e5e);
+  background-image: -o-linear-gradient(top, #235c5c, #385e5e);
+  background-image: linear-gradient(to bottom, #235c5c, #385e5e);
+  text-decoration: none;
+}
+
+.contact-paragraph {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75em;
+  padding: 20px 0px;
+}
+
+.gardening {
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 7px;
+  width: 10%;
+  color: #EAF6F6;
+  margin: 100px auto;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+  color: #66bfbf;
+}
+
+h2 {
+  padding-bottom: 10px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66bfbf;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.intro {
+  width: 25%;
+  margin: auto;
+}
+
+.middle {
+  margin: 100px 0px;
+}
+
+p {
+  line-height: 2;
+}
+
+.profile-img {
+  height: 200px;
+  width: 200px;
+}
+
+.skills {
+  margin: 100px;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.sports {
+  width: 200px;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.top {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 40px;
+  right: 300px;
+}
